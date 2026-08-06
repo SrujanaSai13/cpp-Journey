@@ -23,7 +23,9 @@ As I continue learning, this repository will grow—from the fundamentals of C++
 - Data Structures & Algorithms
   
 ## 📂 Repository Structures
-
+```
+CPP-Journey/
+│
 ├── 01_Basics/
 ├── 02_Conditionals/
 ├── 03_Loops/
@@ -35,7 +37,7 @@ As I continue learning, this repository will grow—from the fundamentals of C++
 ├── 09_STL/
 ├── 10_File_Handling/
 └── 11_DSA/
-
+```
 ## 🌱 Philosophy
 
 I believe consistency beats intensity. Instead of rushing through topics, my goal is to understand concepts deeply, write clean code, and improve one step at a time.
