@@ -24,17 +24,17 @@ As I continue learning, this repository will grow—from the fundamentals of C++
   
 ## 📂 Repository Structures
 
-01_Basics\n
-02_Conditional\n
-03_Loops\n
-04_Functions\n
-05_Arrays\n
-06_Strings\n
-07_Pointers\n
-08_OOP\n
-09_STL\n
-10_File_Handling\n
-11_DSA\n
+├── 01_Basics/
+├── 02_Conditionals/
+├── 03_Loops/
+├── 04_Functions/
+├── 05_Arrays/
+├── 06_Strings/
+├── 07_Pointers/
+├── 08_OOP/
+├── 09_STL/
+├── 10_File_Handling/
+└── 11_DSA/
 
 ## 🌱 Philosophy
 
@@ -48,8 +48,5 @@ Build a strong foundation in C++ that prepares me for competitive programming, s
 ✨ Thank You
 Years from now, I hope to look back at this repository and smile—not because the code was perfect, but because it reminds me where everything started.
 
-If you're reading this while learning C++, I wish you all the best on your journey too.
+If you're reading this while learning C++, I wish you all the best on your journey too!!
 Happy Coding! :)
-
-
-One program at a time.
