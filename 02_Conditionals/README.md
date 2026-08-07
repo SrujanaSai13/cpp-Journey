@@ -1,3 +1,4 @@
-IfElse.cpp
-ElseIf.cpp
-Calculator.cpp
+This folder contains programs related to:
+- Elseif
+- IfandElse 
+- Calculator
