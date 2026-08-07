@@ -1,8 +1,10 @@
-WhileLoop.cpp
-PrimeNo.cpp
-Sum.cpp
-SumOfEven.cpp
-SumOfOdd.cpp
-Problems.cpp
-Fibonacci.cpp
-nCr.cpp
+This folder contains programs related to:
+
+-WhileLoop.cpp
+-PrimeNo.cpp
+-Sum.cpp
+-SumOfEven.cpp
+-SumOfOdd.cpp
+-Problems.cpp
+-FibonacciSeries.cpp
+-nCr.cpp
