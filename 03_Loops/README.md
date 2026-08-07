@@ -7,5 +7,4 @@ This folder contains programs related to:
 - SumOfEven.cpp
 - SumOfOdd.cpp
 - Problems.cpp
-- FibonacciSeries.cpp
-- nCr.cpp
+
