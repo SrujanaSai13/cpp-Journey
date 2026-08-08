@@ -1,25 +1,25 @@
-04_Functions/
-│
-├── Easy/
-│   ├── function_basics.cpp
-│   ├── add_numbers.cpp
-│   ├── maximum_of_two.cpp
-│   ├── factorial_function.cpp
-│   ├── prime_function.cpp
-│   ├── even_odd_function.cpp
-│   └── fibonacci_function.cpp
-│
-├── Medium/
-│   ├── nCr.cpp
-│   ├── gcd_function.cpp
-│   ├── lcm_function.cpp
-│   ├── palindrome_function.cpp
-│   ├── armstrong_function.cpp
-│   ├── decimal_to_binary_function.cpp
-│   └── number_conversion_functions.cpp
-│
-└── Hard/
-    ├── function_overloading.cpp
-    ├── recursive_math_functions.cpp
-    ├── menu_driven_calculator.cpp
-    └── modular_calculator.cpp
+# Functions 
+
+## 🟢 Easy
+- Function Declaration & Definition
+- Function Calling
+- Parameters & Arguments
+- Return Values
+- void Functions
+- Mathematical Functions
+
+## 🟡 Medium
+- Functions with Multiple Parameters
+- GCD & LCM Using Functions
+- nCr Using Functions
+- Palindrome Using Functions
+- Armstrong Number Using Functions
+- Number Conversion Using Functions
+- Combining Multiple Functions
+
+## 🔴 Hard
+- Function Overloading
+- Recursive Functions
+- Recursive Mathematical Problems
+- Menu-Driven Programs
+- Modular Program Design
