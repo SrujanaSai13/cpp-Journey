@@ -13,13 +13,9 @@
 - GCD & LCM Using Functions
 - nCr Using Functions
 - Palindrome Using Functions
-- Armstrong Number Using Functions
-- Number Conversion Using Functions
-- Combining Multiple Functions
 
 ## 🔴 Hard
 - Function Overloading
 - Recursive Functions
-- Recursive Mathematical Problems
 - Menu-Driven Programs
-- Modular Program Design
+
