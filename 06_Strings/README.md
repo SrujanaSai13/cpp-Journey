@@ -1,17 +1,18 @@
-🟢 Easy
+# Strings
 
-1. String Basics & Input
-2. Count Vowels, Consonants & Digits
-3. Reverse a String
-4. Check Palindrome
+## 🟢 Easy
+- String Basics & Input
+- Count Vowels, Consonants & Digits
+- Reverse a String
+- Check Palindrome
 
-🟡 Medium
-5. Character Frequency
-6. Remove Spaces
-7. Find First Non-Repeating Character
-8. Check Anagram
+## 🟡 Medium
+- Character Frequency
+- Remove Spaces
+- First Non-Repeating Character
+- Check Anagram
 
-🔴 Hard
-9. Longest Word in a String
-10. Longest Palindromic Substring
-11. String Compression
+## 🔴 Hard
+- Longest Word in a String
+- Longest Palindromic Substring
+- String Compression
